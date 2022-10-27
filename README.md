@@ -3,5 +3,5 @@ Round 1 :
 Malo : Papier
 Maxime : Papier
 Round 2 :
-Malo : 
+Malo : Papier
 Maxime :
